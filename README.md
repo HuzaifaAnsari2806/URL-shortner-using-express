@@ -18,6 +18,8 @@ Ensure that you have **Node.js** and **MongoDB** installed on your machine.
 
 ```bash
 git clone https://github.com/HuzaifaAnsari2806/URL-shortner-using-express.git
-cd simple-url-shortener
+cd URL-shortner-using-express
+
+
 
 
